@@ -1,1 +1,1 @@
-# pass-str-chkr
+#This password checker can be directed to a .txt file in the format of: username: password. As default, this tool is set to check for a minimum of 8 characters, a maximum of 50 characters, one captal letter, one number, and one special character. If weak passwords are found, it will Print the username and password combo. 
